@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Node
+node_modules/
+.dist/
+.env
+
+# virtual environment
+venv/
+ENV/
+
+# Build artifacts
+frontend/dist/
